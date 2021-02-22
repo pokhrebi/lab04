@@ -1,0 +1,79 @@
+/*--------Title---------*/
+
+/*--------General-------*/
+h1
+{
+    color: #FFFFFF;
+    margin-bottom: 0;
+    font-family: serif;
+}
+h2
+{
+  color: #00664D;
+  font-family: serif;
+}
+h3
+{
+  font-family: serif;
+}
+a
+{
+  font-weight: bold;
+  text-decoration: none;
+}
+/*--------Header--------*/
+
+header
+{
+  background-color: #00B386;
+  background-image: url("images/pasture.png");
+  background-position: right;
+  background-repeat: no-repeat;
+  text-align: left;
+  line-height: 400%;
+  text-indent: 1em;
+
+}
+/*--------Body----------*/
+body
+{
+  background: #FFFFFF;
+  color: #666666;
+  font-family: sans-serif;
+}
+ul
+{
+ list-style-image: url("images/marker.gif");
+}
+nav
+{
+  background: #70DBDB;
+}
+dt
+{
+  color: #00664D;
+}
+
+/*--------Footer--------*/
+footer
+{
+  font-size: 75%;
+  font-style: italic;
+  font-family: serif;
+  text-align: center;
+}
+
+/*------Class ----- */
+.barn
+{
+  color: #70DBDB;
+  font-weight: bold;
+}
+#contact
+{
+  font-size: 90%;
+}
+.listTitle
+{
+  font-weight: bold;
+}
